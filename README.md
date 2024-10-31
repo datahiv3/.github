@@ -1,27 +1,42 @@
-# Overview
+## 🚀 Core Repositories
 
-DataHive transforms the way data is managed, shared, and monetized. DataHive provides a secure, transparent, and user-centric platform for data assets.
+**Legalese Nodes**
+- Comprehensive framework for Legalese Nodes in the DataHive ecosystem
+- Specialized in legal data indexing, curation, and legal intelligence layers
+- Core component of our decentralized infrastructure
 
-## Ecosystem Components
+**Legalese-Node-LN1**
+- Public repository for DataHive's LN1 Legalese Node
+- Open-source components for legal data indexing and curation
+- Powers the DataHive network's legal intelligence capabilities
 
-DataHive's architecture consists of various specialized nodes:
+**Consent-Nodes**
+- Manages data permissions and user consent
+- Ensures compliance and data sovereignty
+- Core privacy infrastructure
 
-- Legalese Nodes (LN)
-- Consent Nodes (CN)
-- Data Assetization Nodes (DN)
-- Securitization Nodes (SN)
+## 💻 Technology Stack
 
-[Learn more about our node ecosystem](./NODES.md)
+- **Primary Languages**: Kotlin, TypeScript, JavaScript, Python
+- **Focus Areas**: 
+  - Blockchain Integration
+  - Legal Data Curation
+  - Decentralized Legal Framework
+  - Legal Intelligence
 
-## Roadmap
+## 🗺️ Current Development
 
-- Q4 2024: Beta launch of the DataHive platform
-- Q1 2025: Integration of additional node types
-- Q2 2025: Public release of Privacy AI Agent
-- Q3 2025: Full public launch and ecosystem expansion
+- Active development on LN1 private repository
+- Continuous updates to core node infrastructure
+- Integration of consent management systems
+- Enhancement of legal intelligence capabilities
 
-## Contact
+## 📫 Connect With Us
 
+- Website: https://www.datahive.network/
 - Email: team@datahive.network
-- Twitter: [@DataHiveOfficial](https://twitter.com/GetDataHive)
-- Telegram: [DataHive Community](https://t.me/datahiveofficial)
+- Twitter: @getdatahive
+
+## 🤝 Contributing
+
+We welcome contributions to our public repositories. Check our repositories section for ongoing projects and opportunities to contribute to the DataHive ecosystem.
