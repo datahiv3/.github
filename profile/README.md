@@ -6,6 +6,8 @@
 - Core component of our decentralized infrastructure
 
 **Legalese-Node-LN1**
+### [Legalese-Node-LN1](https://github.com/datahiv3/Legalese-Node-LN1)
+Public repository for DataHive's LN1 Legalese Node, containing open-source components and documentation for the legal data indexing and curation system powering the DataHive network.
 - Public repository for DataHive's LN1 Legalese Node
 - Open-source components for legal data indexing and curation
 - Powers the DataHive network's legal intelligence capabilities
