@@ -1,10 +1,3 @@
-## 🚀 Core Repositories
-
-**Legalese Nodes**
-- Comprehensive framework for Legalese Nodes in the DataHive ecosystem
-- Specialized in legal data indexing, curation, and legal intelligence layers
-- Core component of our decentralized infrastructure
-
 ## [Legalese-Node-LN1](https://github.com/datahiv3/Legalese-Node-LN1)
 Public repository for DataHive's LN1 Legalese Node, containing open-source components and documentation for the legal data indexing and curation system powering the DataHive network.
 - Public repository for DataHive's LN1 Legalese Node
