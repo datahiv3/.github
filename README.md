@@ -1,4 +1,4 @@
-## 🚀 Core Repositories
+## 🚀 Core 
 
 **Legalese Nodes**
 - Comprehensive framework for Legalese Nodes in the DataHive ecosystem
