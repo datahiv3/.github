@@ -34,8 +34,8 @@
 ## 📫 Connect With Us
 
 - Website: https://www.datahive.network/
-- Email: team@datahive.network
-- Twitter: @getdatahive
+- 📧 [team@datahive.network](mailto:team@datahive.network)
+- 🐦 [@getdatahive](https://twitter.com/getdatahive)
 
 ## 🤝 Contributing
 
