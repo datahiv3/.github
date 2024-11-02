@@ -1,8 +1,15 @@
 # 🐝 Your Data, Your AI, Your **DataHive**
 
+![Data Ownership](./docs/Images/DataOwnFuture.png)
+
 **Empowering individuals and enterprises with decentralized data ownership.**
 
 At **DataHive**, we believe that your relationship with data should be as personal and intimate as your relationship with your own thoughts. In a world where walled gardens and centralized platforms control your information, DataHive offers a new paradigm—one where you hold the keys to your data, privacy, and interactions with AI.
+
+[![Join us on Telegram](https://img.shields.io/badge/Telegram-Join%20Us-blue?logo=telegram)](https://t.me/datahiveofficial)
+[![Follow us on Twitter](https://img.shields.io/badge/Twitter-Follow%20Us-blue?logo=twitter)](https://twitter.com/getdatahive)
+[![Email Us](https://img.shields.io/badge/Email-Contact%20Us-blue?logo=gmail)](mailto:team@datahive.network)
+
 
 ## 🌍 **Our Vision**
 
@@ -13,21 +20,28 @@ At DataHive, we believe it’s time to reclaim that control. Our vision is simpl
 ### Key Benefits:
 - **[On-Device AI](./docs/on-device-ai.md)**: Your AI lives on your device—processing data locally to ensure privacy. It’s like having a personal assistant that never leaves your side or shares your secrets.
 - **[Decentralized Ecosystem](./docs/decentralized-nodes.md)**: DataHive connects you to a network of decentralized nodes that empower you to interact securely with legal frameworks, blockchain networks, and other data ecosystems.
-- **[Privacy by Design](privacy-by-design)**: With DataHive’s architecture, you don’t have to worry about third parties accessing your information. Your data stays yours—always.
+- **[Privacy by Design](./docs/privacy-by-design.md)**: With DataHive’s architecture, you don’t have to worry about third parties accessing your information. Your data stays yours—always.
 
 ## 🚀 **The DataHive Ecosystem**
 
 DataHive is more than just nodes—it’s an entire ecosystem designed to protect your data while enabling powerful AI-driven insights. Here’s how it works:
 
 ### **[On-Device AI](./docs/on-device-ai.md)**
-- **Personalized AI Assistant**: Your device becomes home to an AI that learns from you directly without needing cloud-based processing. It’s private by design.
-- **Hardcoded Privacy**: The relationship between you and your AI is hardcoded—no third-party access or surveillance.
-- **Seamless Connectivity**: While keeping your data private on-device, DataHive allows secure connections to external resources like blockchains or Web2 networks when needed.
+
+- **[Personalized AI Assistant](./docs/personalized-ai-assistant.md)**: Your device becomes home to an AI that learns from you directly without needing cloud-based processing. It’s private by design.
+- **[Hardcoded Privacy](./docs/hardcoded-privacy.md)**: The relationship between you and your AI is hardcoded—no third-party access or surveillance.
+- **[Seamless Connectivity](./docs/seamless-connectivity.md)**: While keeping your data private on-device, DataHive allows secure connections to external resources like blockchains or Web2 networks when needed.
 
 ### **[Decentralized Nodes](./docs/decentralized-nodes.md)**
-- **Legalese Nodes**: These nodes handle legal data indexing and curation within the DataHive network. They power legal intelligence layers that enable decentralized legal frameworks.
-- **Consent Nodes**: Manage permissions and user consent across the ecosystem. These nodes ensure compliance with global privacy regulations like GDPR while maintaining user sovereignty over their data.
+
+![Node Clusters](./docs/Images/NodeClusters.png)
+
+### **[Decentralized Nodes](./docs/decentralized-nodes.md)**
+- **[Legalese Nodes](https://github.com/datahiv3/Legalese-Nodes)**: These nodes handle legal data indexing and curation within the DataHive network. They power legal intelligence layers that enable decentralized legal frameworks.
+- **[Consent Nodes](https://github.com/datahiv3/Consent-Nodes)**: Manage permissions and user consent across the ecosystem. These nodes ensure compliance with global privacy regulations like GDPR while maintaining user sovereignty over their data.
 
 ### **[Blockchain Integration](./docs/blockchain-integration.md)**
+
+
 - DataHive seamlessly integrates with various blockchain networks for secure transactions and interactions.
 - Legal frameworks are decentralized using blockchain technology to ensure transparency and immutability.

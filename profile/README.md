@@ -1,37 +1,33 @@
-## [Legalese-Node-LN1](https://github.com/datahiv3/Legalese-Node-LN1)
-Public repository for DataHive's LN1 Legalese Node, containing open-source components and documentation for the legal data indexing and curation system powering the DataHive network.
-- Public repository for DataHive's LN1 Legalese Node
-- Open-source components for legal data indexing and curation
-- Powers the DataHive network's legal intelligence capabilities
+# 🐝 Your Data, Your AI, Your **DataHive**
 
-## [Consent-Nodes](https://github.com/datahiv3/Consent-Nodes)
-Core infrastructure for managing data permissions and user consent in the DataHive ecosystem.
-- Manages data permissions and user consent
-- Ensures compliance and data sovereignty
-- Core privacy infrastructure
+**Empowering individuals and enterprises with decentralized data ownership.**
 
-## 💻 Technology Stack
+At **DataHive**, we believe that your relationship with data should be as personal and intimate as your relationship with your own thoughts. In a world where walled gardens and centralized platforms control your information, DataHive offers a new paradigm—one where you hold the keys to your data, privacy, and interactions with AI.
 
-- **Primary Languages**: Kotlin, TypeScript, JavaScript, Python
-- **Focus Areas**: 
-  - Blockchain Integration
-  - Legal Data Curation
-  - Decentralized Legal Framework
-  - Legal Intelligence
+## 🌍 **Our Vision**
 
-## 🗺️ Current Development
+**DataHive begins with your device**—whether it’s a smartphone, laptop, or tablet. These devices are deeply personal, containing our most private thoughts, communications, and decisions. Yet in today’s digital landscape, much of this data is controlled by centralized entities. We’ve seen the pitfalls of walled gardens in social media and beyond: lack of control, privacy breaches, and exploitation of personal information.
 
-- Active development on LN1 private repository
-- Continuous updates to core node infrastructure
-- Integration of consent management systems
-- Enhancement of legal intelligence capabilities
+At DataHive, we believe it’s time to reclaim that control. Our vision is simple: **[AI should be as intimate as an inner monologue](./docs/ai-inner-monologue.md)**, but computationally enhanced. Your AI should serve you—learning from your preferences, assisting in decision-making, and protecting your privacy—all while keeping you connected to broader ecosystems like blockchains, Web2 networks, and other decentralized platforms.
 
-## 📫 Connect With Us
+### Key Benefits:
+- **[On-Device AI](./docs/on-device-ai.md)**: Your AI lives on your device—processing data locally to ensure privacy. It’s like having a personal assistant that never leaves your side or shares your secrets.
+- **[Decentralized Ecosystem](./docs/decentralized-nodes.md)**: DataHive connects you to a network of decentralized nodes that empower you to interact securely with legal frameworks, blockchain networks, and other data ecosystems.
+- **[Privacy by Design](./docs/privacy-by-design.md)**: With DataHive’s architecture, you don’t have to worry about third parties accessing your information. Your data stays yours—always.
 
-- Website: https://www.datahive.network/
-- 📧 [team@datahive.network](mailto:team@datahive.network)
-- 🐦 [@getdatahive](https://twitter.com/getdatahive)
+## 🚀 **The DataHive Ecosystem**
 
-## 🤝 Contributing
+DataHive is more than just nodes—it’s an entire ecosystem designed to protect your data while enabling powerful AI-driven insights. Here’s how it works:
 
-We welcome contributions to our public repositories. Check our repositories section for ongoing projects and opportunities to contribute to the DataHive ecosystem.
+### **[On-Device AI](./docs/on-device-ai.md)**
+- **Personalized AI Assistant**: Your device becomes home to an AI that learns from you directly without needing cloud-based processing. It’s private by design.
+- **Hardcoded Privacy**: The relationship between you and your AI is hardcoded—no third-party access or surveillance.
+- **Seamless Connectivity**: While keeping your data private on-device, DataHive allows secure connections to external resources like blockchains or Web2 networks when needed.
+
+### **[Decentralized Nodes](./docs/decentralized-nodes.md)**
+- **Legalese Nodes**: These nodes handle legal data indexing and curation within the DataHive network. They power legal intelligence layers that enable decentralized legal frameworks.
+- **Consent Nodes**: Manage permissions and user consent across the ecosystem. These nodes ensure compliance with global privacy regulations like GDPR while maintaining user sovereignty over their data.
+
+### **[Blockchain Integration](./docs/blockchain-integration.md)**
+- DataHive seamlessly integrates with various blockchain networks for secure transactions and interactions.
+- Legal frameworks are decentralized using blockchain technology to ensure transparency and immutability.
