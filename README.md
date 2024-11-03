@@ -45,3 +45,11 @@ DataHive is more than just nodes—it’s an entire ecosystem designed to protec
 
 - DataHive seamlessly integrates with various blockchain networks for secure transactions and interactions.
 - Legal frameworks are decentralized using blockchain technology to ensure transparency and immutability.
+
+## 🪙 Tokenomics
+
+The **DataHive Token (DH)** is essential to powering the DataHive ecosystem, enabling interactions between individuals and enterprises while ensuring data ownership, privacy, and economic incentives.
+
+Our tokenomics model emphasizes **regenerative economics**, encouraging sustainable growth and capital inflows from external sources such as fiat currencies (e.g., USD) and major cryptocurrencies (e.g., Bitcoin, Ethereum). This design ensures that both individuals and enterprises can achieve **net profit** and **net revenue** through participation in the DataHive network.
+
+For more details on how DH tokens are utilized across the ecosystem, from base-level contracts to user and enterprise interactions, check out our [Tokenomics](./docs/Tokenomics.md) section.
