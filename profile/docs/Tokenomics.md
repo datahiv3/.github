@@ -2,12 +2,14 @@
 
 The **DataHive Token (DH)** is the cornerstone of the DataHive ecosystem, facilitating seamless interactions between individuals and enterprises while preserving data ownership, privacy, and economic incentives.
 
+![Facilitated Interactions](../docs/images/FacilitatedInteractions.png)
+
 ## Utilization of DH Tokens
 
 1. **Enterprises:**
    - **Requesting Data:** Enterprises spend DH tokens to request access to specific data assets across the network. This ensures that data owners are compensated for their contributions, while enterprises gain valuable insights.
    - **Earning Tokens:** Enterprises can monetize their own data by packaging it into structured assets for sale or licensing.
-   - **Data Asset Packaging:** By collating various data points, enterprises can create comprehensive packages for additional revenue.
+   - **Data Assetetization:** By collating various data points, enterprises can create comprehensive packages for additional revenue.
    - **Licensing Opportunities:** Flexible licensing terms can be set for various clients or applications, allowing recurring revenue streams.
 
 2. **Individual Users:**
