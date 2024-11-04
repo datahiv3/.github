@@ -2,7 +2,7 @@
 
 ![Comparing Enterprises and Individuals](/profile/images/Comparingenterprisesindividuals.png)
 
-The **DataHive Token (DH)** powers a dynamic ecosystem where enterprises and individuals can participate in secure, compliant data exchange while ensuring privacy and ownership rights.
+The **DataHive Token (DH)** powers a dynamic ecosystem where enterprises, individuals, and AI agents can participate in secure, compliant data exchange while ensuring privacy and ownership rights.
 
 ## Token Flow by Participant Type
 
@@ -24,6 +24,26 @@ The **DataHive Token (DH)** powers a dynamic ecosystem where enterprises and ind
 - **Control their data through**:
   - Selective data sharing options
   - Revenue-sharing in downstream uses
+
+### AI Agents
+- **Spend DH tokens to**:
+  - Execute LLM operations and model inference
+  - Access computational resources across the network
+  - Interface with other AI agents and systems
+- **Earn DH tokens by**:
+  - Providing intelligent bridging services
+  - Contributing to swarm intelligence
+  - Optimizing cross-network operations
+
+### AI Agent Swarms
+- **Dynamic Bridge Formation**:
+  - Self-organizing agent clusters that facilitate cross-ecosystem interactions
+  - Automated interface creation between Web2 and Web3 systems
+  - Adaptive routing of data and computational resources
+- **Token Economics**:
+  - DH tokens serve as both computational credits and value transfer medium
+  - Dual-purpose tokenization: LLM operations and economic incentives
+  - Dynamic pricing based on computational complexity and network demand
 
 ### Developers
 - **Spend DH tokens to**:
@@ -47,6 +67,25 @@ See our complete [Developer Tokenomics](DeveloperTokenomics.md) documentation.
 - **Data Securitization Nodes**: Earn by processing data assets into securities
 
 Read more about [Node Operator Economics](NodeTokenomics.md) in our documentation.
+
+## Cross-Layer Token Dynamics
+
+### Agentic Layer Interactions
+- **Horizontal Integration**:
+  - Agent-to-agent token transfers
+  - Cross-model computation settlement
+  - Swarm coordination incentives
+- **Vertical Integration**:
+  - Layer-specific token utilities
+  - Cross-layer bridging rewards
+  - Ecosystem growth incentives
+
+### LLM Token Economics
+- **Token Conversion**:
+  - LLM computational tokens ↔ DH tokens
+  - Dynamic pricing based on model complexity
+  - Efficiency rewards for optimized operations
+
 
 ## Regenerative Economics
 
