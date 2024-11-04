@@ -1,10 +1,12 @@
 # Tokenomics of DataHive
 
-![Comparing Enterprises and Individuals](/profile/images/Comparingenterprisesindividuals.png)
+![Comparing Enterprises and Individuals](/profile/images/DataHiveEcosystemOverview.png)
 
 The **DataHive Token (DH)** powers a dynamic ecosystem where enterprises, individuals, and AI agents can participate in secure, compliant data exchange while ensuring privacy and ownership rights.
 
 ## Token Flow by Participant Type
+
+![Comparing Enterprises and Individuals](/profile/images/Comparingenterprisesindividuals.png)
 
 ### Enterprises
 - **Spend DH tokens to**:
