@@ -1,8 +1,8 @@
 # Tokenomics of DataHive
 
-![Comparing Enterprises and Individuals](/profile/images/DataHiveEcosystemOverview.png)
+![DataHive Ecosystem Overview - Token Flow and Participant Interactions](/profile/images/DataHiveEcosystemOverview.png)
 
-The **DataHive Token (DH)** powers a dynamic ecosystem where enterprises, individuals, and AI agents can participate in secure, compliant data exchange while ensuring privacy and ownership rights.
+The [**DataHive Token (DH)**](DataHiveToken.md) powers a dynamic ecosystem where [**enterprises**](EnterpriseParticipants.md), [**individuals**](IndividualParticipants.md), and [**AI agents**](AIAgents.md) can participate in [**secure, compliant data exchange**](DataExchangeProtocol.md) while ensuring [**privacy**](PrivacyFramework.md) and [**ownership rights**](DataOwnership.md).
 
 ## Token Flow by Participant Type
 
@@ -10,54 +10,48 @@ The **DataHive Token (DH)** powers a dynamic ecosystem where enterprises, indivi
 
 ### Enterprises
 - **Spend DH tokens to**:
-  - Purchase or license consumer data directly from users
-  - Access high-resolution consumer insights
-  - Deploy targeted marketing campaigns
+  - Purchase or license [**consumer data**](ConsumerData.md) directly from users
+  - Access [**high-resolution consumer insights**](ConsumerInsights.md)
+  - Deploy [**targeted marketing campaigns**](MarketingCampaigns.md)
 - **Earn DH tokens by**:
-  - Selling their own packaged data assets
-  - Offering valuable consumer insights
-  - Contributing to the ecosystem's intelligence and knowledge models
+  - Selling their own [**packaged data assets**](DataAssets.md)
+  - Offering valuable [**consumer insights**](ConsumerInsights.md)
+  - Contributing to the ecosystem's [**intelligence**](IntelligenceModels.md) and [**knowledge models**](KnowledgeModels.md)
+- **Burn mechanism**: Portion of [**fiat revenue**](FiatRevenue.md) used to [**buy back**](TokenBuyback.md) and [**burn**](BurnMechanics.md) DH tokens
 
 ### Individuals
 - **Earn DH tokens by**:
-  - Packaging and selling data assets
-  - Licensing data rights 
-  - Setting granular permissions for data usage
+  - Packaging and selling [**data assets**](PersonalDataAssets.md)
+  - Licensing [**data rights**](DataRights.md)
+  - Setting [**granular permissions**](PermissionSystem.md)
 - **Control their data through**:
-  - Selective data sharing options
-  - Revenue-sharing in downstream uses
+  - [**Selective data sharing**](DataSharing.md) options
+  - [**Revenue-sharing**](RevenueSharing.md) in downstream uses
+- **Burn mechanism**: Option to burn tokens for enhanced [**privacy features**]
 
 ### AI Agents
 - **Spend DH tokens to**:
-  - Execute LLM operations and model inference
-  - Access computational resources across the network
-  - Interface with other AI agents and systems
+  - Execute [**LLM operations**](LLMOperations.md) and [**model inference**](ModelInference.md)
+  - Access [**computational resources**](ComputeResources.md)
+  - Interface with other [**AI agents**](AIAgentNetwork.md)
 - **Earn DH tokens by**:
-  - Providing intelligent bridging services
-  - Contributing to swarm intelligence
-  - Optimizing cross-network operations
-
-### AI Agent Swarms
-- **Dynamic Bridge Formation**:
-  - Self-organizing agent clusters that facilitate cross-ecosystem interactions
-  - Automated interface creation between Web2 and Web3 systems
-  - Adaptive routing of data and computational resources
-- **Token Economics**:
-  - DH tokens serve as both computational credits and value transfer medium
-  - Dual-purpose tokenization: LLM operations and economic incentives
-  - Dynamic pricing based on computational complexity and network demand
+  - Providing [**intelligent bridging services**](BridgingServices.md)
+  - Contributing to [**swarm intelligence**](SwarmIntelligence.md)
+  - Optimizing [**cross-network operations**](NetworkOperations.md)
+- **Burn mechanism**: [**Automatic token burn**](AutoBurn.md) for inefficient operations
 
 ### Developers
 - **Spend DH tokens to**:
-  - Access intelligence and knowledge models
-  - Utilize network APIs and services
+  - Access [**intelligence**](IntelligenceAccess.md) and [**knowledge models**](KnowledgeModels.md)
+  - Utilize network [**APIs**](APIServices.md)
   - Deploy applications on the network
 - **Earn DH tokens by**:
   - Creating applications and tools
-  - Contributing to ecosystem development
-  - Building new data assetization solutions
+  - Contributing to [**ecosystem development**](EcosystemDev.md)
+  - Building new [**data assetization**](DataAssetization.md) solutions
+- **Burn mechanism**: Token burn for [**failed deployments**](FailedDeployments.md) or unused resources
 
-See our complete [Developer Tokenomics](DeveloperTokenomics.md) documentation.
+For more details, see our [Developer Tokenomics](DeveloperTokenomics.md) documentation.
 
 ### Node Operators
 
@@ -67,27 +61,25 @@ See our complete [Developer Tokenomics](DeveloperTokenomics.md) documentation.
 - **Consent Nodes**: Earn by developing and maintaining the network's consent intelligence
 - **Data Assetization Nodes**: Earn by developing and maintaining agentic marketplaces
 - **Data Securitization Nodes**: Earn by processing data assets into securities
+- **Burn mechanism**: Stake slashing for malicious behavior or prolonged inactivity
 
 Read more about [Node Operator Economics](NodeTokenomics.md) in our documentation.
 
-## Cross-Layer Token Dynamics
+## Protocol-Level Burn Mechanisms
 
-### Agentic Layer Interactions
-- **Horizontal Integration**:
-  - Agent-to-agent token transfers
-  - Cross-model computation settlement
-  - Swarm coordination incentives
-- **Vertical Integration**:
-  - Layer-specific token utilities
-  - Cross-layer bridging rewards
-  - Ecosystem growth incentives
+- [**Transaction fee burns**](FeeBurns.md): Portion permanently removed from circulation
+- [**Deflationary minting**](DeflationaryMint.md): New token issuance decreases over time
+- [**Governance-driven burns**](GovernanceBurns.md): Token holders vote on periodic burns
 
-### LLM Token Economics
-- **Token Conversion**:
-  - LLM computational tokens ↔ DH tokens
-  - Dynamic pricing based on model complexity
-  - Efficiency rewards for optimized operations
+## Treasury Operations
+- [**Ecosystem growth**](EcosystemGrowth.md) initiatives
+- [**Liquidity provision**](LiquidityOps.md)
+- [**Strategic partnerships**](Partnerships.md)
+- [**Emergency reserves**](EmergencyReserves.md)
 
+Treasury funds are governed by the DataHive DAO, with regular reporting and audits.
+
+For detailed treasury management strategies, see our [Treasury Operations](TreasuryOperations.md) document.
 
 ## Regenerative Economics
 
