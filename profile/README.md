@@ -1,6 +1,6 @@
 # 🐝 Your Data, Your AI, Your **DataHive**
 
-![Data Ownership](../profile/Images/DataOwnFuture.png)
+![Data Ownership](/profile/images/DataOwnFuture.png)
 
 **Empowering individuals and enterprises with decentralized data ownership.**
 
