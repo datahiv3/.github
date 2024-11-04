@@ -1,6 +1,6 @@
 # Tokenomics of DataHive
 
-![Comparing Enterprises and Individuals](../docs/Images/Comparingenterprisesindividuals.png)
+![Comparing Enterprises and Individuals](profile/images/Comparingenterprisesindividuals.png)
 
 The **DataHive Token (DH)** powers a dynamic ecosystem where enterprises and individuals can participate in secure, compliant data exchange while ensuring privacy and ownership rights.
 
@@ -34,17 +34,19 @@ The **DataHive Token (DH)** powers a dynamic ecosystem where enterprises and ind
   - Creating applications and tools
   - Contributing to ecosystem development
   - Building new data assetization solutions
-- [Learn more about Developer Economics](./docs/DeveloperTokenomics.md)
+
+See our complete [Developer Tokenomics](DeveloperTokenomics.md) documentation.
 
 ### Node Operators
 
-![Node Operations Cycle](../docs/Images/NodeOperationsCycle.png)
+![Node Operations Cycle](profile/images/NodeOperationsCycle.png)
 
 - **Legalese Nodes**: Earn by developing and maintaining DataHive's legal intelligence
 - **Consent Nodes**: Earn by developing and maintaining the network's consent intelligence
 - **Data Assetization Nodes**: Earn by developing and maintaining agentic marketplaces
 - **Data Securitization Nodes**: Earn by processing data assets into securities
-- [Learn more about Node Tokenomics](./docs/NodeTokenomics.md)
+
+Read more about [Node Operator Economics](NodeTokenomics.md) in our documentation.
 
 ## Regenerative Economics
 
@@ -52,10 +54,13 @@ DataHive's tokenomics emphasizes sustainable growth through:
 - Continuous value creation through data generation and data assetization
 - External capital inflows from pure users of the network
 - Self-sustaining cryptoeconomic mechanisms
-- [Learn more about our Economic Design](./docs/RegenerativeEconomics.md)
 
-For detailed information about specific participant types and their roles in the ecosystem:
-- [Enterprise Token Usage](./docs/EnterpriseTokens.md)
-- [Individual Token Usage](./docs/IndividualTokens.md)
-- [Developer Token Usage](./docs/DeveloperTokenomics.md)
-- [Node Operator Economics](./docs/NodeEconomics.md)
+Explore our complete [Economic Design](RegenerativeEconomics.md) documentation.
+
+## Detailed Documentation
+
+The DataHive ecosystem includes comprehensive documentation for each participant type:
+- [Enterprise Token Usage Guide](EnterpriseTokens.md)
+- [Individual Token Usage Guide](IndividualTokens.md)
+- [Developer Token Usage Guide](DeveloperTokenomics.md)
+- [Node Operator Economic Guide](NodeTokenomics.md)

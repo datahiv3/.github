@@ -1,6 +1,6 @@
 # 🐝 Your Data, Your AI, Your **DataHive**
 
-![Data Ownership](./docs/Images/DataOwnFuture.png)
+![Data Ownership](../profile/Images/DataOwnFuture.png)
 
 **Empowering individuals and enterprises with decentralized data ownership.**
 
@@ -34,7 +34,7 @@ DataHive is more than just nodes—it’s an entire ecosystem designed to protec
 
 ### **[Decentralized Nodes](./docs/decentralized-nodes.md)**
 
-![Node Clusters](./docs/Images/NodeClusters.png)
+![Node Clusters](../profile/Images/NodeClusters.png)
 
 ### **[Decentralized Nodes](./docs/decentralized-nodes.md)**
 - **[Legalese Nodes](https://github.com/datahiv3/Legalese-Nodes)**: These nodes handle legal data indexing and curation within the DataHive network. They power legal intelligence layers that enable decentralized legal frameworks.
