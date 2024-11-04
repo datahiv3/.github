@@ -69,6 +69,7 @@ Read more about [Node Operator Economics](NodeTokenomics.md) in our documentatio
 
 - [**Transaction fee burns**](FeeBurns.md): Portion permanently removed from circulation
 - [**Deflationary minting**](DeflationaryMint.md): New token issuance decreases over time
+- **Stake Slashing for Reliability Violations**: Add a bullet point explaining that nodes with prolonged downtime or excessive errors may have a portion of their stake slashed, reinforcing the importance of network reliability.
 
 ## Treasury Operations
 - [**Ecosystem growth**](EcosystemGrowth.md) initiatives
