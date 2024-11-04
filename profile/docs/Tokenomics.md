@@ -69,7 +69,6 @@ Read more about [Node Operator Economics](NodeTokenomics.md) in our documentatio
 
 - [**Transaction fee burns**](FeeBurns.md): Portion permanently removed from circulation
 - [**Deflationary minting**](DeflationaryMint.md): New token issuance decreases over time
-- [**Governance-driven burns**](GovernanceBurns.md): Token holders vote on periodic burns
 
 ## Treasury Operations
 - [**Ecosystem growth**](EcosystemGrowth.md) initiatives
