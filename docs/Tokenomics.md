@@ -2,6 +2,8 @@
 
 The **DataHive Token (DH)** powers a dynamic ecosystem where enterprises and individuals can participate in secure, compliant data exchange while ensuring privacy and ownership rights.
 
+![Comparing Enterprises and Individuals](..\docs\Images\Comparingenterprisesindividuals.png)
+
 ## Token Flow by Participant Type
 
 ### Enterprises
@@ -24,6 +26,7 @@ The **DataHive Token (DH)** powers a dynamic ecosystem where enterprises and ind
   - Revenue-sharing in downstream uses
 
 ### Node Operators
+![Node Operations Cycle](..\docs\Images\NodeOperationsCycle.png)
 - **Legalese Nodes**: Earn by developing and maintaining DataHive's legal intelligence
 - **Consent Nodes**: Earn by developing and maintaining the network's consent intelligence
 - **Data Assetization Nodes**: Earn by developing and maintaining agentic marketplaces where data assets are traded
