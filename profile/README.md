@@ -34,7 +34,7 @@ DataHive is more than just nodes—it’s an entire ecosystem designed to protec
 
 ### **[Decentralized Nodes](./docs/decentralized-nodes.md)**
 
-![Node Clusters](../profile/Images/NodeClusters.png)
+![Node Clusters](/profile/images/NodeClusters.png)
 
 ### **[Decentralized Nodes](./docs/decentralized-nodes.md)**
 - **[Legalese Nodes](https://github.com/datahiv3/Legalese-Nodes)**: These nodes handle legal data indexing and curation within the DataHive network. They power legal intelligence layers that enable decentralized legal frameworks.

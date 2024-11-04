@@ -1,6 +1,6 @@
 # Tokenomics of DataHive
 
-![Comparing Enterprises and Individuals](profile/images/Comparingenterprisesindividuals.png)
+![Comparing Enterprises and Individuals](/profile/images/Comparingenterprisesindividuals.png)
 
 The **DataHive Token (DH)** powers a dynamic ecosystem where enterprises and individuals can participate in secure, compliant data exchange while ensuring privacy and ownership rights.
 
@@ -39,7 +39,7 @@ See our complete [Developer Tokenomics](DeveloperTokenomics.md) documentation.
 
 ### Node Operators
 
-![Node Operations Cycle](profile/images/NodeOperationsCycle.png)
+![Node Operations Cycle](/profile/images/NodeOperationsCycle.png)
 
 - **Legalese Nodes**: Earn by developing and maintaining DataHive's legal intelligence
 - **Consent Nodes**: Earn by developing and maintaining the network's consent intelligence
