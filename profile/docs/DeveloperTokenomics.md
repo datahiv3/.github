@@ -35,7 +35,6 @@ DataHive provides a comprehensive tokenomic framework for developers building on
 ## Token Allocation
 
 ### Development Pool
-- **Annual Allocation**: 10% of token supply reserved for development
 - **Distribution Criteria**: Based on contribution impact and usage
 - **Vesting Schedule**: Graduated release tied to development milestones
 - **Bonus Structure**: Additional rewards for exceptional contributions
