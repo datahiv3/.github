@@ -1,8 +1,8 @@
 # Tokenomics of DataHive
 
-The **DataHive Token (DH)** powers a dynamic ecosystem where enterprises and individuals can participate in secure, compliant data exchange while ensuring privacy and ownership rights.
-
 ![Comparing Enterprises and Individuals](..\docs\Images\Comparingenterprisesindividuals.png)
+
+The **DataHive Token (DH)** powers a dynamic ecosystem where enterprises and individuals can participate in secure, compliant data exchange while ensuring privacy and ownership rights.
 
 ## Token Flow by Participant Type
 
@@ -25,12 +25,25 @@ The **DataHive Token (DH)** powers a dynamic ecosystem where enterprises and ind
   - Selective data sharing options
   - Revenue-sharing in downstream uses
 
+### Developers
+- **Spend DH tokens to**:
+  - Access intelligence and knowledge models
+  - Utilize network APIs and services
+  - Deploy applications on the network
+- **Earn DH tokens by**:
+  - Creating applications and tools
+  - Contributing to ecosystem development
+  - Building new data assetization solutions
+- [Learn more about Developer Economics](./docs/DeveloperTokenomics.md)
+
 ### Node Operators
+
 ![Node Operations Cycle](..\docs\Images\NodeOperationsCycle.png)
+
 - **Legalese Nodes**: Earn by developing and maintaining DataHive's legal intelligence
 - **Consent Nodes**: Earn by developing and maintaining the network's consent intelligence
-- **Data Assetization Nodes**: Earn by developing and maintaining agentic marketplaces where data assets are traded
-- **Data Securitization Nodes**: Earn by processing data assets into securities, creating portfolios and indexes
+- **Data Assetization Nodes**: Earn by developing and maintaining agentic marketplaces
+- **Data Securitization Nodes**: Earn by processing data assets into securities
 - [Learn more about Node Tokenomics](./docs/NodeTokenomics.md)
 
 ## Regenerative Economics
@@ -44,4 +57,5 @@ DataHive's tokenomics emphasizes sustainable growth through:
 For detailed information about specific participant types and their roles in the ecosystem:
 - [Enterprise Token Usage](./docs/EnterpriseTokens.md)
 - [Individual Token Usage](./docs/IndividualTokens.md)
+- [Developer Token Usage](./docs/DeveloperTokenomics.md)
 - [Node Operator Economics](./docs/NodeEconomics.md)
