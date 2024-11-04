@@ -28,4 +28,5 @@ Imagine a situation where you are faced with a series of choices—whether it’
 
 For example:
 - If you're navigating a legal agreement, the AI can offer insights based on past interactions and legal frameworks within the DataHive ecosystem.
+
 - If you're setting personal goals or making financial decisions, the AI can suggest options that align with both short-term needs and long-term aspirations.
