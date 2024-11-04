@@ -150,3 +150,13 @@ For detailed information:
 - Performance analytics
 - Reward calculator
 - Security scanner
+
+## Node Operator Economics
+
+### Monitoring and Performance Metrics
+In the DataHive ecosystem, the reliability of nodes is paramount. Each node operator is subject to strict performance metrics that must be met to ensure network stability. We employ a rigorous monitoring system that evaluates uptime, response times, and accuracy of data handling.
+
+### Fallback Mechanisms
+To enhance reliability, we have implemented fallback mechanisms. If a node fails to respond or meets certain performance thresholds, tasks can automatically switch to a backup node to ensure continuous service delivery. This redundancy significantly minimizes risks associated with unreliable node operations and boosts overall network performance.
+
+Additionally, **nodes that do not meet performance standards may face slashing**, reduced rewards, or replacement in the network.

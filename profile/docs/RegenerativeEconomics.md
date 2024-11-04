@@ -146,3 +146,16 @@ graph LR
 - [Economic Whitepaper](Whitepaper.md)
 - [Technical Documentation](TechnicalDocs.md)
 - [Research Papers](Research.md)
+
+## Regenerative Economics
+
+DataHive's tokenomics emphasizes sustainable growth through:
+
+- Continuous value creation through data generation and data assetization.
+- External capital inflows from pure users of the network.
+- Self-sustaining cryptoeconomic mechanisms based on reliable node operations.
+
+### Importance of Node Reliability
+The performance and reliability of nodes in the DataHive ecosystem directly impacts our regenerative economics model. When nodes operate effectively, they contribute to a smooth user experience and maintain data integrity, which are vital for attracting and retaining ecosystem users. Conversely, unreliable nodes can drain resources and reduce trust in the network, negatively affecting economic growth.
+
+Thus, ensuring node reliability is not just a technical necessity but a key economic strategy for DataHive's growth and sustainability.
