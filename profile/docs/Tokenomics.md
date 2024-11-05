@@ -69,8 +69,12 @@ Read more about [Node Operator Economics](NodeTokenomics.md) in our documentatio
 
 - [**Transaction fee burns**](FeeBurns.md): Portion permanently removed from circulation
 - [**Deflationary minting**](DeflationaryMint.md): New token issuance decreases over time
-- **Stake Slashing for Reliability Violations**: Add a bullet point explaining that nodes with prolonged downtime or excessive errors may have a portion of their stake slashed, reinforcing the importance of network reliability.
-
+- [**Stake Slashing for Reliability Violations**](StakeSlashing.md): Nodes with prolonged downtime or excessive errors
+- [**Buyback and Burn**](BuybackBurn.md): Percentage of network revenue used for token buybacks and burns
+- [**Unused Token Burning**](UnusedTokenBurn.md): Gradual burn rate for long-term inactive tokens
+- [**Failed Operation Burns**](FailedOpBurns.md): Token burns from failed network operations
+- [**Governance Burns**](GovernanceBurns.md): Burns related to governance decisions and proposals
+- [**Security Violation Burns**](SecurityBurns.md): Penalties for detected security breaches or malicious behavior
 ## Treasury Operations
 - [**Ecosystem growth**](EcosystemGrowth.md) initiatives
 - [**Liquidity provision**](LiquidityOps.md)
